@@ -9,3 +9,9 @@
   display: block;
   color: red;
 }
+
+@media  screen and (max-width:992px) {
+  body{
+    backgroud-color: grey;
+  }
+}
